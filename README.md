@@ -3,3 +3,4 @@
 # Results:
 ![image](https://github.com/retajziad/Student-Grade/assets/129913977/98a939f2-8882-421c-890c-d1cc1bafd190)
 
+# Note: some jar files need to be added to the project inorder for it to run properly
